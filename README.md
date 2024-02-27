@@ -1,1 +1,1 @@
-everybody get up, hey hey hey
+everybody get up, hey hey hey!
