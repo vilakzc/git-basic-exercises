@@ -1,0 +1,62 @@
+    1  git remote add origin https://github.com/vilakzc/git-basic-exercises.git
+    2  git branch -M main
+    3  git push -u origin main
+    4  git
+    5  https://github.com/vilakzc
+    6  git-basic-exercises
+    7  ls
+    8  git config vilakzc
+    9  git config
+   10  git config --global user.name "vilakzc"
+   11  git config --global user.name vilakzc
+   12  git config --global user.email vilakzc@gmail.com
+   13  mkdir git_environment
+   14  cd git_environment
+   15  cd ..
+   16  cd ..
+   17  pwd
+   18  cd ..
+   19  pwd
+   20  cd..
+   21  cd ..
+   22  pwd
+   23  cd ..
+   24  pwd
+   25  ls
+   26  ls -a
+   27  mkdir git-basic-exercises
+   28  cd home
+   29  cd home
+   30  pwd
+   31  mkdir home
+   32  cd
+   33  pwd
+   34  mkdir git-basic-exercises
+   35  cd git-basic-exercises
+   36  git init
+   37  touch README.md
+   38  git add README.md
+   39  git commit -m "initial commit"
+   40  nano README.md
+   41  nano README.md
+   42  cat README.md
+   43  git add README.md
+   44  git status
+   45  git commit -m "second commit"
+   46  nano README.md
+   47  git add README.md
+   48  git commit -m "third commit"
+   49  git log
+   50  git branch
+   51  git branch milkshake-flavours
+   52  git checkout milkshake-flavours
+   53  nano milkshakes.md
+   54  git add milkshakes.md
+   55  git commit -m "added initial flavours"
+   56  git status
+   57  git checkout main
+   58  git branch history
+   59  git branch
+   60  git checkout history
+   61  git log
+   62  history > history.txt
